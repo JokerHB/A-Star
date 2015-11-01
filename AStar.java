@@ -44,6 +44,14 @@ public class AStar {
         N2 - N4 - N7 - N9
 
          */
+         
+         /*
+         N0 - N1 - N2 - N3
+              |     |
+              N4 - N5 - N6 
+              |         |
+              N7 - N8 - N9             
+         */
 
         n[0].setXY(0, 0);
         n[1].setXY(0, 1);
